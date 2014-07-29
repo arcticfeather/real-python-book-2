@@ -1,0 +1,1 @@
+Repository for my projects from the second book of the Real Python course
